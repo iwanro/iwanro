@@ -61,4 +61,4 @@ TypeScript web apps, Manifest V3 browser extensions, and MCP servers for AI agen
 
 - Email: **iulianivn@duck.com**
 - Google Play: [play.google.com/store/apps/developer?id=iwan](https://play.google.com/store/apps/developer?id=iwan)
-- Website: [jurnalapicol.ro](https://jurnalapicol.ro)
+- Website: [iwan.ro](https://iwan.ro)
