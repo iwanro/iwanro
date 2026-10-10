@@ -29,7 +29,6 @@ TypeScript web apps, Manifest V3 browser extensions, and MCP servers for AI agen
 
 - **[forgetmenot](https://github.com/iwanro/forgetmenot)** `Go` `MIT` — Persistent, semantically searchable memory for AI agents. Local-first MCP server, one static binary, zero runtime dependencies, with a built-in lexical fallback so recall keeps working without an embedding service.
 - **[mcp-ocr-glm](https://github.com/iwanro/mcp-ocr-glm)** `Python` `MIT` — Free OCR and vision for any MCP-capable coding client, powered by GLM-4.6V-Flash.
-- **[apigarage-main](https://github.com/iwanro/apigarage-main)** `Next.js` `TypeScript` — Vault for API keys, prompts and credentials, with bcrypt password hashing, JWT sessions and encryption at rest. [Live demo](https://apigarage-main.vercel.app).
 - **[reddit-assistant](https://github.com/iwanro/reddit-assistant)** `Python` — Reddit Data API bot using OAuth: monitors subreddits, filters posts by keyword, routes notifications and manages inbox replies.
 - **[Tab-Suspend](https://github.com/iwanro/Tab-Suspend)** `JavaScript` — Manifest V3 extension that suspends inactive tabs to reclaim memory, with whitelist/blacklist rules and usage statistics.
 - **[Subscription-Manager](https://github.com/iwanro/Subscription-Manager)** `JavaScript` `MIT` — Subscription tracker with category budgets, multi-currency support, PDF/Excel export and AI categorisation.
