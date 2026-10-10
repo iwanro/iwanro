@@ -8,7 +8,7 @@ TypeScript web apps, Manifest V3 browser extensions, and MCP servers for AI agen
 <p>
   <a href="https://play.google.com/store/apps/developer?id=iwan"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-iwan-414141?logo=googleplay&logoColor=white"></a>
   <a href="mailto:iulianivn@duck.com"><img alt="Email" src="https://img.shields.io/badge/email-iulianivn%40duck.com-0B7285"></a>
-  <a href="https://jurnalapicol.ro"><img alt="Website" src="https://img.shields.io/badge/site-jurnalapicol.ro-F5A623"></a>
+  <a href="https://iwan.ro"><img alt="Website" src="https://img.shields.io/badge/site-iwan.ro-F5A623"></a>
 </p>
 
 ---
