@@ -21,6 +21,10 @@ TypeScript web apps, Manifest V3 browser extensions, and MCP servers for AI agen
 | **[Forest Guard](https://play.google.com/store/apps/details?id=com.iwan.forest.guard)** | Forestry permit monitoring: tracks SUMAL permits by plate number, sends push notifications, maps routes, serves offline packs per county, verifies company IDs through a VIES proxy, and exports PDF/CSV. | Flutter · Cloudflare Workers · D1 · FCM |
 | **[Ghidul Sancțiunilor](https://play.google.com/store/apps/details?id=ro.iwan.ghidul.sanctiunilor)** | Offline reference for Romanian sanctions and fines across forestry, road, weapons, hunting, public order and more. Open dataset: [AmenziOrdinePublica](https://github.com/iwanro/AmenziOrdinePublica). | Flutter · public dataset |
 
+#### In progress
+
+- **[Transport Public București](https://transport-public-bucuresti.pages.dev)** `Flutter` `Cloudflare Workers` — Android companion for public transport in Bucharest and Ilfov: live arrivals, a map of vehicles, route planner and a station widget, built over open TPBI GTFS and GTFS-Realtime data.
+
 #### Open source
 
 - **[forgetmenot](https://github.com/iwanro/forgetmenot)** `Go` `MIT` — Persistent, semantically searchable memory for AI agents. Local-first MCP server, one static binary, zero runtime dependencies, with a built-in lexical fallback so recall keeps working without an embedding service.
